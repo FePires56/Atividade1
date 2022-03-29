@@ -1,29 +1,29 @@
 .A {
-    background-color: #ee9134;
+    background-color: #6f00ff;
     width: 500px;
     height: 500px;
 }
 
 .B {
-    background-color: #90ee90;
-    width: 250px;
-    height: 250px;
+    background-color: #ff5e00;
+    width: 55%;
+    height: 65%;
 }
 
 .C {
-    background-color: red;
-    color: white;
-    font-size: 25px;
-    font-weight: monospace;
+    background-color: rgb(164, 190, 178);
+    color: rgb(255, 0, 140);
+    font-size: 50px;
+    font-weight: sans-serif;
 }
 
 .D{
-    width: 50%;
-    height: 50vh;
-    background-color: rgb(173, 216, 230);
+    width: 40%;
+    height: 40vh;
+    background-color: rgb(229, 255, 0);
 }
 .E{
-    width: 75vw;
-    height: 50%;
-    background-color: rgb(255, 0, 0);
+    width: 80vw;
+    height: 70%;
+    background-color: rgb(86, 140, 202);
 }
